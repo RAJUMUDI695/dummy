@@ -1,0 +1,36 @@
+
+#myImage {
+    width: 200px;
+    height: 200px;
+    transition: width 0.5s ease-in-out, height 0.5s ease-in-out;
+  }
+  
+  #myImage:hover {
+    width: 400px;
+    height: 400px;
+  }
+
+  
+
+
+
+
+
+
+
+
+
+
+/* #myImage {
+    width: 400px;
+    height: 300px;
+    transition: width 0.5s ease-in-out, height 0.5s ease-in-out;
+  }
+  
+  #enlargeButton {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  } */
